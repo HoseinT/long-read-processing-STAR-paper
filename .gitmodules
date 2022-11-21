@@ -1,0 +1,3 @@
+[submodule "align"]
+	path = align
+	url = https://github.com/brentp/align.git
